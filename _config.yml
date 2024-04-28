@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "small_pic.jpg"
   name             : "Sampreeti Bhattacharya"
   pronouns         : # example: "she/her"  
   bio              : "Hi I work at the interface of  Computational Modeling of Solid-State Physics and Material Science. I am interested in Computational/Theoretical Chemistry, ELectroninc Structure Theory, Materials Information, Physics Driven Machine Learning."

@@ -1,10 +1,10 @@
 # main links links
 main:
-  -title: "Research areas"
+
   - title: "Publications"
     url: https://scholar.google.com/citations?user=IuGwQ4oAAAAJ&hl=en
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
 
   # - title: "Teaching"
